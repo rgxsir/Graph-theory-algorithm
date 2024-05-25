@@ -14,6 +14,10 @@ Dot coloring algorithm
 
 <img width="1080" alt="1" src="https://github.com/rgxsir/Graph-theory-algorithm/assets/155449724/d7354dd8-fd71-4b2e-9098-28298c3aff03">
 
+Fluery algorithm
+
+<img width="1080" alt="22" src="https://github.com/rgxsir/Graph-theory-algorithm/assets/155449724/5d6e366f-f1d7-4445-b237-ba46168dd6b6">
+
 Graph Sequence Determination Algorithm
 
 <img width="1080" alt="2" src="https://github.com/rgxsir/Graph-theory-algorithm/assets/155449724/4b73d135-9f2e-4ec1-910f-74b7d1ef8477">
